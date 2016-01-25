@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Code en stock]]></title>
+  <subtitle><![CDATA[cat astuces >> ici]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://blog.luce.pro/"/>
+  <updated>2016-01-24T23:41:01.051Z</updated>
+  <id>http://blog.luce.pro/</id>
+  
+  <author>
+    <name><![CDATA[Thomas Luce]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Bienvenue]]></title>
+    <link href="http://blog.luce.pro/2016/01/24/Welcome/"/>
+    <id>http://blog.luce.pro/2016/01/24/Welcome/</id>
+    <published>2016-01-24T23:08:00.000Z</published>
+    <updated>2016-01-24T23:41:01.051Z</updated>
+    <content type="html"><![CDATA[<p>Bienvenue à toi, perdu dans les limbes de l’internet. </p>
+<p>Une requête google obscure et un D6 t’aura sûrement amené à une des astuces, j’espère que cela t’aidera.<br>N’hésites pas à poster un commentaire si les informations fournies ne suffisent pas. </p>
+<p>En effet ce blog regroupe les différentes astuces et solutions à des problèmes rencontrés dans mes projets professionnels et personnels. </p>
+<p>Pour être un peu plus intime, je suis un jeune développeur travaillant dans la région rouennaise. Et pour être encore plus intime, ce blog est fait grâce à <a href="http://hexo.io/" rel="external nofollow" target="_blank">Hexo</a> et il est pour l’instant hébergé sur raspberry pi2 !</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Bienvenue à toi, perdu dans les limbes de l’internet. </p>
+<p>Une requête google obscure et un D6 t’aura sûrement amené à une des astuces]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
